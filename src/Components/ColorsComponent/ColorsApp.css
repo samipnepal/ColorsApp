@@ -1,0 +1,24 @@
+.colorsApp {
+  text-align: center;
+}
+
+.header {
+  margin: 0 auto;
+  margin-top: 10%;
+  min-height: 100vh;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+#canvas1 {
+  float: left;
+}
+
+#canvas2 {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
